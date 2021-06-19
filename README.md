@@ -1,1 +1,1 @@
-# Deep_Learning
+# 인공지능기초
